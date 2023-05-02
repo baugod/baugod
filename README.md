@@ -1,10 +1,9 @@
 ### <div align="center">I'm Bautista Godoy, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🌱 I’m currently learning on Soy Henry.  
-  
-
-- ⚡ Fun fact: learning new technologies  
+- 👨‍💻 Currently looking for work.
+- 👨‍🎓 Graduated from I'm Henry.
+- 🌱 Fun fact: learning new technologies  
   
 
 ### **<ins> 👨‍💻  ABOUT ME: 
